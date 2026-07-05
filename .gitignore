@@ -6,8 +6,6 @@ dist/
 build/
 
 # ── Environment ──────────────────────────────────────────────
-.env
-.env.local
 .env.*.local
 
 # ── macOS ────────────────────────────────────────────────────
@@ -39,3 +37,4 @@ npm-debug.log*
 *.orig
 tatus
 
+config.bat
